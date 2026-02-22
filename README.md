@@ -40,22 +40,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandipDS89&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandipDS89&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandipDS89&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
